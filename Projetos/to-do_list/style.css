@@ -1,0 +1,15 @@
+
+
+#container {
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    margin: auto;
+    width: fit-content;
+    margin-top: 100px;
+    padding: 30px;
+    border: 1px solid red;
+}
+
+#para-fazer, #feitos {
+    list-style: none;
+}
